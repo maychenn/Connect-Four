@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace>
+
+	<settings>
+
+		<label>ConnectFour</label>
+
+		<id>0</id>
+
+		<version>0</version>
+
+	</settings>
+
+	<users>
+
+		<user>
+
+			<path>ConnectFour.jcu</path>
+
+		</user>
+
+	</users>
+
+	<projects>
+
+		<project>
+
+			<path>ConnectFour.jcp</path>
+
+		</project>
+
+	</projects>
+
+</workspace>
